@@ -14,7 +14,8 @@ syntax: T0 k T1 T2 ... Tk
 The task order
 
 ### Notes
-- Solved using Kahn's Algorithm that solves the problem in linear time.
+- Solved using Kahn's Algorithm that solves the problem in linear time
+- A heap was used as data structure to hold the next nodes to evaluate
 - Developed using python 2.7.12
 - Usage: python main.py <input-file>
 
